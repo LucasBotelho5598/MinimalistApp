@@ -1,6 +1,6 @@
 # MinimalistTodoApp
 
-Agradeço a Deus por este projeto pronto, e a Ele toda honra e glória.
+Agradeço a Deus por este projeto pronto, e a Ele toda Honra e Glória.
 
 **Salmos 139:6**:
 Tal conhecimento é maravilhoso demais para mim: é sobremodo elevado, não o posso atingir.
