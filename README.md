@@ -1,5 +1,9 @@
 # MinimalistTodoApp
 
+## UX/UI
+
+https://www.figma.com/file/EWDM4L41923BvS6tqi8eKo/Todo-App-(Community)?type=design&mode=design&t=tDZE1iklAj5BzSjC-0
+
 ## Structure
 
 - **MVVM**
