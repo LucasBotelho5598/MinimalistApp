@@ -1,5 +1,10 @@
 # MinimalistTodoApp
 
+Agradeço a Deus por este projeto pronto, e a Ele toda honra e glória.
+
+**Salmos 139:6**:
+Tal conhecimento é maravilhoso demais para mim: é sobremodo elevado, não o posso atingir.
+
 ## UX/UI
 
 https://www.figma.com/file/EWDM4L41923BvS6tqi8eKo/Todo-App-(Community)?type=design&mode=design&t=tDZE1iklAj5BzSjC-0
